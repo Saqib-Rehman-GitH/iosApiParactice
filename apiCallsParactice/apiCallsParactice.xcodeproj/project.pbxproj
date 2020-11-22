@@ -16,6 +16,7 @@
 		651E363A256A762B007F8DF3 /* apiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E3639256A762B007F8DF3 /* apiService.swift */; };
 		651E363C256A9486007F8DF3 /* VC_SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E363B256A9486007F8DF3 /* VC_SecondView.swift */; };
 		651E363E256A97BF007F8DF3 /* Cell_CVCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E363D256A97BF007F8DF3 /* Cell_CVCollectionViewCell.swift */; };
+		651E3640256AA757007F8DF3 /* POPUP_VC_Paractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E363F256AA757007F8DF3 /* POPUP_VC_Paractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		651E3639256A762B007F8DF3 /* apiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = apiService.swift; sourceTree = "<group>"; };
 		651E363B256A9486007F8DF3 /* VC_SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC_SecondView.swift; sourceTree = "<group>"; };
 		651E363D256A97BF007F8DF3 /* Cell_CVCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell_CVCollectionViewCell.swift; sourceTree = "<group>"; };
+		651E363F256AA757007F8DF3 /* POPUP_VC_Paractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POPUP_VC_Paractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				651E363B256A9486007F8DF3 /* VC_SecondView.swift */,
 				651E363D256A97BF007F8DF3 /* Cell_CVCollectionViewCell.swift */,
 				651E3639256A762B007F8DF3 /* apiService.swift */,
+				651E363F256AA757007F8DF3 /* POPUP_VC_Paractice.swift */,
 				651E362B256A715A007F8DF3 /* Main.storyboard */,
 				651E362E256A715C007F8DF3 /* Assets.xcassets */,
 				651E3630256A715C007F8DF3 /* LaunchScreen.storyboard */,
@@ -150,6 +153,7 @@
 				651E362A256A715A007F8DF3 /* ViewController.swift in Sources */,
 				651E3626256A715A007F8DF3 /* AppDelegate.swift in Sources */,
 				651E363A256A762B007F8DF3 /* apiService.swift in Sources */,
+				651E3640256AA757007F8DF3 /* POPUP_VC_Paractice.swift in Sources */,
 				651E3628256A715A007F8DF3 /* SceneDelegate.swift in Sources */,
 				651E363C256A9486007F8DF3 /* VC_SecondView.swift in Sources */,
 				651E363E256A97BF007F8DF3 /* Cell_CVCollectionViewCell.swift in Sources */,

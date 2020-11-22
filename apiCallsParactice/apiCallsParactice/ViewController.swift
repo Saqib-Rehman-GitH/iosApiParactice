@@ -114,5 +114,17 @@ class ViewController: UIViewController {
         
     }
     
+    
+    @IBAction func showPopup(){
+        
+        let popUp = storyboard?.instantiateViewController(withIdentifier: "POPUP_VC_Paractice") as! POPUP_VC_Paractice
+        
+        self.addChild(popUp)
+        popUp.view.frame = self.view.frame
+        self.view.addSubview(popUp.view)
+        popUp.didMove(toParent: self)
+        
+    }
+    
 }
 
