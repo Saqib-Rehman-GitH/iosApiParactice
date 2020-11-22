@@ -105,5 +105,14 @@ class ViewController: UIViewController {
         .resume()
     }
     
+    @IBAction func gotToSecondController () {
+        
+        let vc = storyboard?.instantiateViewController(identifier: "VC_SecondView")
+        vc?.modalPresentationStyle = .fullScreen
+        guard let evc = vc else { return }
+        present( evc , animated: true , completion: nil )
+        
+    }
+    
 }
 
